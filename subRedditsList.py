@@ -22,7 +22,7 @@ cookie = { # this cookie lets you bypass the age filter
             }
 
 try:        
-        link_to_sub_reddits = 'http://www.reddit.com/subreddits?count=7100&after=t5_2sz27'
+        link_to_sub_reddits = 'http://www.reddit.com/subreddits'
 
         L=[]
         navigate_the_pages=1
